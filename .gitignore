@@ -1,0 +1,6 @@
+# .NET Core build output
+bin/
+obj/
+
+# Custom
+appsettings.Development.json
